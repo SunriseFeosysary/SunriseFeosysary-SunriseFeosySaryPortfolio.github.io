@@ -152,7 +152,7 @@ nav {
 
 #portefeuille {
     padding-top: 100px;
-    background: linear-gradient(rgba(1, 0, 66, 0.5), rgba(7, 0, 73, 0.5)),url('./fond/fond.jpg');
+    background: linear-gradient(rgba(203, 226, 241, 0.397), rgba(8, 0, 83, 0.459)),url('./fond/fond.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
